@@ -27,6 +27,7 @@
 <ul>THE STANLEY PARABLE</ul>
 <ul>MADNESS COMBAT</ul>
 <ul>MORTAL KOMBAT</ul>
+<ul>DETROIT BECOME HUMAN</ul>
 
 ![192b5a4215e7b73c6310c397ceff2964](https://github.com/The-Fools-Tavern/The-Fools-Tavern/assets/158025274/f1f3ffe9-5b7f-4da6-bddf-49a49b4143b6)
 
