@@ -58,6 +58,7 @@
 <ol>GUEST1337 (THE LAST GUEST)</ol>
 <ol>MEPHONE4 (INANIMATE INSANITY) </ol>
 <ol>GPS (THE NIGHTLY MANOR)</ol>
+<ol>DETECTIVE COLUMBO (COLUMBO) </ol>
 
 
 ![46fd171bbcb5b8973ea371678a85afec](https://github.com/The-Fools-Tavern/The-Fools-Tavern/assets/158025274/d3b42bc7-72ed-4316-b2d1-2d08e5835d14)
